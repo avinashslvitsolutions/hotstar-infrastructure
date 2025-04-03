@@ -32,3 +32,5 @@ terraform.rc
 # Terraform Cloud/Enterprise files
 .terraform.lock.hcl
 .terraform.lock.hcl.json
+#Ignore PEM files
+*.pem
